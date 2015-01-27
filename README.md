@@ -1,2 +1,1 @@
 # hola-vos:
-# Saludo inicial
